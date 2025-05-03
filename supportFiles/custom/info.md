@@ -2,6 +2,6 @@
 
 #### 适用范围:所有虚拟机和物理机
 #### 安装器中的Custom OpenWrt
-#### 固件地址:
+#### 固件地址:https://fw0.koolcenter.com/iStoreOS/x86_64_efi/istoreos-22.03.7-2025040711-x86-64-squashfs-combined-efi.img.gz
 #### 用户名:  密码:
 #### 默认软件包大小:  
